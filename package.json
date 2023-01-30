@@ -1,8 +1,6 @@
 {
-	"author":"Facunchos",
-	"Author":"Facunchos",
 	"name": "fcc-learn-npm-package-json",
-	"version": "1.0",
+	"author": "foobar",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
